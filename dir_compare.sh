@@ -36,3 +36,5 @@ elif [[ $count1 -ne $count2 ]]; then
 else
   echo "Files in both directories are the same"
 fi
+
+exit 0
